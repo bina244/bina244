@@ -1,16 +1,13 @@
-## Hi there 👋
+## meu perfil🖤
 
-<!--
-**bina244/bina244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e sabrina
 
-Here are some ideas to get you started:
+-Estou estudando na alura
+-Estou me desenvolvendo na linguagem javaScrispt
+-UTILIzo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contato comigo 
+
+sab07aquino@gamail.com
+
+![](https://media1.tenor.com/m/cS2O4bhrjLkAAAAd/happy-pleased.gif)
